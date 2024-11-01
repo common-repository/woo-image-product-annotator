@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="638876da-d8d7-4755-b881-028f4a358250" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="woocommerce-image-annotator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/woocommerce-image-annotator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+              <folding>
+                <element signature="e#6#250#0#PHP" expanded="true" />
+                <element signature="n#wcia_quick_view_deactivate#0;n#!!top" expanded="false" />
+                <element signature="e#1850#2167#0#PHP" expanded="false" />
+                <element signature="e#1894#2031#0#PHP" expanded="false" />
+                <element signature="e#2037#2167#0#PHP" expanded="false" />
+                <element signature="e#2048#2162#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/admin/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1408">
+              <caret line="88" column="1" lean-forward="false" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../TheRichFeeling/wp-content/plugins/woocommerce-image-annotator/css/admin/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="146" lean-forward="false" selection-start-line="16" selection-start-column="146" selection-end-line="16" selection-end-column="146" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output_file (16).txt" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/output_file (16).txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/admin.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2592">
+              <caret line="542" column="0" lean-forward="false" selection-start-line="542" selection-start-column="0" selection-end-line="542" selection-end-column="0" />
+              <folding>
+                <element signature="e#62#119#0" expanded="false" />
+                <element signature="e#138#177#0" expanded="false" />
+                <element signature="e#252#401#0" expanded="false" />
+                <element signature="e#439#560#0" expanded="false" />
+                <element signature="e#598#719#0" expanded="false" />
+                <element signature="e#750#779#0" expanded="false" />
+                <element signature="e#839#988#0" expanded="false" />
+                <element signature="e#1018#1123#0" expanded="false" />
+                <element signature="e#1153#1258#0" expanded="false" />
+                <element signature="e#1293#1324#0" expanded="false" />
+                <element signature="e#1341#1692#0" expanded="false" />
+                <element signature="e#1716#1976#0" expanded="false" />
+                <element signature="e#2012#2347#0" expanded="false" />
+                <element signature="e#2366#2411#0" expanded="false" />
+                <element signature="e#2460#2488#0" expanded="false" />
+                <element signature="e#2506#2551#0" expanded="false" />
+                <element signature="e#2598#2626#0" expanded="false" />
+                <element signature="e#2732#2766#0" expanded="false" />
+                <element signature="e#2768#3020#0" expanded="false" />
+                <element signature="e#2824#2924#0" expanded="false" />
+                <element signature="e#2932#3018#0" expanded="false" />
+                <element signature="e#3022#3266#0" expanded="false" />
+                <element signature="e#3070#3170#0" expanded="false" />
+                <element signature="e#3178#3264#0" expanded="false" />
+                <element signature="e#3268#3528#0" expanded="false" />
+                <element signature="e#3324#3418#0" expanded="false" />
+                <element signature="e#3426#3526#0" expanded="false" />
+                <element signature="e#3530#3782#0" expanded="false" />
+                <element signature="e#3578#3672#0" expanded="false" />
+                <element signature="e#3680#3780#0" expanded="false" />
+                <element signature="e#3784#3912#0" expanded="false" />
+                <element signature="e#3848#3875#0" expanded="false" />
+                <element signature="e#3883#3910#0" expanded="false" />
+                <element signature="e#3914#4034#0" expanded="false" />
+                <element signature="e#3970#3997#0" expanded="false" />
+                <element signature="e#4005#4032#0" expanded="false" />
+                <element signature="e#4036#4164#0" expanded="false" />
+                <element signature="e#4100#4127#0" expanded="false" />
+                <element signature="e#4135#4162#0" expanded="false" />
+                <element signature="e#4166#4286#0" expanded="false" />
+                <element signature="e#4222#4249#0" expanded="false" />
+                <element signature="e#4257#4284#0" expanded="false" />
+                <element signature="e#4298#4535#0" expanded="false" />
+                <element signature="e#4554#4739#0" expanded="false" />
+                <element signature="e#4758#4800#0" expanded="false" />
+                <element signature="e#4830#5057#0" expanded="false" />
+                <element signature="e#5090#5110#0" expanded="false" />
+                <element signature="e#5133#5235#0" expanded="false" />
+                <element signature="e#5248#5526#0" expanded="false" />
+                <element signature="e#5545#5732#0" expanded="false" />
+                <element signature="e#5751#5793#0" expanded="false" />
+                <element signature="e#5823#6026#0" expanded="false" />
+                <element signature="e#6059#6079#0" expanded="false" />
+                <element signature="e#6102#6204#0" expanded="false" />
+                <element signature="e#6222#6244#0" expanded="false" />
+                <element signature="e#6262#6284#0" expanded="false" />
+                <element signature="e#6313#6341#0" expanded="false" />
+                <element signature="e#6360#6499#0" expanded="false" />
+                <element signature="e#6519#6657#0" expanded="false" />
+                <element signature="e#6676#6816#0" expanded="false" />
+                <element signature="e#6957#7057#0" expanded="false" />
+                <element signature="e#7116#7137#0" expanded="false" />
+                <element signature="e#7161#7205#0" expanded="false" />
+                <element signature="e#7265#7322#0" expanded="false" />
+                <element signature="e#7475#7604#0" expanded="false" />
+                <element signature="e#7642#7687#0" expanded="false" />
+                <element signature="e#7730#7892#0" expanded="false" />
+                <element signature="e#7914#7957#0" expanded="false" />
+                <element signature="e#8002#8023#0" expanded="false" />
+                <element signature="e#8046#8085#0" expanded="false" />
+                <element signature="e#8116#8190#0" expanded="false" />
+                <element signature="e#8216#8236#0" expanded="false" />
+                <element signature="e#8277#8299#0" expanded="false" />
+                <element signature="e#8328#8351#0" expanded="false" />
+                <element signature="e#8393#8416#0" expanded="false" />
+                <element signature="e#8468#8510#0" expanded="false" />
+                <element signature="e#8540#8567#0" expanded="false" />
+                <element signature="e#8617#9216#0" expanded="false" />
+                <element signature="e#8701#9210#0" expanded="false" />
+                <element signature="e#9221#9799#0" expanded="false" />
+                <element signature="e#9282#9793#0" expanded="false" />
+                <element signature="e#9873#9924#0" expanded="false" />
+                <element signature="e#9958#9993#0" expanded="false" />
+                <element signature="e#10008#10016#0" expanded="false" />
+                <element signature="e#10159#10187#0" expanded="false" />
+                <element signature="e#10216#10244#0" expanded="false" />
+                <element signature="e#10278#10402#0" expanded="false" />
+                <element signature="e#10407#11864#0" expanded="false" />
+                <element signature="e#10496#10531#0" expanded="false" />
+                <element signature="e#10545#10958#0" expanded="false" />
+                <element signature="e#11031#11059#0" expanded="false" />
+                <element signature="e#11149#11231#0" expanded="false" />
+                <element signature="e#11266#11340#0" expanded="false" />
+                <element signature="e#11374#11540#0" expanded="false" />
+                <element signature="e#11575#11671#0" expanded="false" />
+                <element signature="e#11710#11861#0" expanded="false" />
+                <element signature="e#11866#13299#0" expanded="false" />
+                <element signature="e#11932#11967#0" expanded="false" />
+                <element signature="e#11981#12394#0" expanded="false" />
+                <element signature="e#12467#12495#0" expanded="false" />
+                <element signature="e#12585#12667#0" expanded="false" />
+                <element signature="e#12702#12776#0" expanded="false" />
+                <element signature="e#12810#12976#0" expanded="false" />
+                <element signature="e#13011#13107#0" expanded="false" />
+                <element signature="e#13146#13297#0" expanded="false" />
+                <element signature="e#13327#13398#0" expanded="false" />
+                <element signature="e#13428#13561#0" expanded="false" />
+                <element signature="e#13588#13752#0" expanded="false" />
+                <element signature="e#13776#13865#0" expanded="false" />
+                <element signature="e#13896#13918#0" expanded="false" />
+                <element signature="e#13979#14114#0" expanded="false" />
+                <element signature="e#14159#14245#0" expanded="false" />
+                <element signature="e#14314#14333#0" expanded="false" />
+                <element signature="e#14344#14530#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class-wcia_backend_settings.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/class-wcia_backend_settings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="46" column="33" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="33" />
+              <folding>
+                <marker date="1491522128039" expanded="true" signature="8859:8872" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sing</find>
+      <find>singl</find>
+      <find>single-a</find>
+      <find>single-an</find>
+      <find>single-ann</find>
+      <find>single-anno</find>
+      <find>single-annot</find>
+      <find>gallery-annotation.php</find>
+      <find>galler</find>
+      <find>ec</find>
+      <find>shopping</find>
+      <find>$(&quot;a.zoom&quot;).prettyPhoto</find>
+      <find>s</find>
+      <find>shop the l</find>
+      <find>shop the lok</find>
+      <find>shop the lo</find>
+      <find>shop the look</find>
+      <find>shop the loo</find>
+      <find>wo</find>
+      <find>wooc</find>
+      <find>woo</find>
+      <find>V</find>
+      <find>View Annotation</find>
+      <find>/* Use this font-face with your font files but leave the name to change the font@font-face {    font-family: 'annotatorFont';}*/.font-test {    font-family: 'annotatorFont', sans-serif;    font-size: 32px;}.invert {-webkit-filter: invert(100%); filter: invert(100%);}/*all size*/#wcia_content {    position: relative;    width: 100%;    height: 100%;}#wcia_content .annotated-image-marginer{    margin:4px;    width: 100%;    padding-top: 100%;    top:0px;    position: absolute;    background-size: cover;    background-position: center 0;    background-repeat: no-repeat;}#wcia_content .text {    color: white;    text-align: center;    font-size: 10px;    position: absolute;    top: 50%;    left: 50%;    transform: translate(-50%, -50%);    -ms-transform: translate(-50%, -50%);}#wcia_content .fs-fa-shopping-tag{    -webkit-box-shadow: none;    box-shadow: none;     width: 36px;     height: 36px;    margin: auto;    background-size:100%;}#wcia_content .annotated-image-all {    top: 0px;    position: absolute;    margin: auto;    min-height: 100%;    min-width: 100%;    /* For the following settings we set 100%, but it can be higher if needed    See the answer's update */}#wcia_content .overlay {    position: absolute;    top: 0;    bottom: 0;    left: 0;    right: 0;    height: 100%;    width: 100%;    opacity: 0;    transition: .2s ease;    background-color: rgba(0, 0, 0, 0.51);}#wcia_content .annotated-image-all-container {}#wcia_content .annotated-image-all-container:hover .overlay {    opacity: 1;}/*shortcode*/@media only screen and (min-width: 770px) {    #wcia-single-image-annotation {        position: relative;        width: 100%;        min-width: 700px;        min-height: 600px;    }    .annotated-image-container {        position: relative;        height: 100%;        float:left;    }    /*shortcode*/    .annotated-image-wrapper {        position: relative;        height: 100%;        font-family: 'clearSansBold', sans-serif;        overflow: hidden;    }    .annotated-image {        max-width: none;        position: relative;        height: 100%;        z-index: 6;    }    .annotated-image-all-container {        position: relative;        float:left;        width:20%;        padding-top: 20%;        overflow: hidden;    }    .annotated-image-all-container:nth-child(7n+1) {        width: 40%;        padding-top: 40%;        clear: both;    }    .annotated-image-all-container:nth-child(10n+8) {        float: right;    }    .about .container {        overflow: hidden;        padding:5px !important;        margin:5px !important;        width:99% !important;    }}@media only screen and (max-width: 769px) and (min-width: 641px) {    .annotated-image-all-container {        position: relative;        float:left;        width:25%;        padding-top: 25%;        overflow: hidden;    }    .annotated-image-all-container:nth-child(5n+1) {        width: 50%;        padding-top: 50%;        clear: both;    }    .annotated-image-all-container:nth-child(10n+6) {        float: right;    }    .annotated-image {        position: relative;        width: 100%;        z-index: 6;        height: auto;    }    .about .container {        overflow: hidden;        padding:5px !important;        margin:5px !important;        width:99% !important;    }}@media only screen and (max-width: 641px) {    .annotated-image-container {        position: relative;        height: auto;        float:left;        width: 100%;    }    .annotated-image {        position: relative;        width: 100%;        z-index: 6;        height: auto;    }    /*shortcode*/    .annotated-image-wrapper {        position: relative;        width: 100%;        font-family: 'clearSansBold', sans-serif;        overflow: hidden;    }    .annotated-image-all-container {        position: relative;        float:left;        overflow: hidden;        width: 48%;        padding-top: 48%;    }    .about .container  {        overflow: hidden;        padding:0px !important;        width:100% !important;    }    .about .container .row {        padding:0px !important;    }}/*marker on picture*/#wcia_contend .img-annotator-marker-url{    width: 20px;    height: 20px;    position: absolute !important;    top:50%;    left:50%;    border: solid 3px rgba(255, 255, 255, 0);    background-color: rgba(229, 220, 40, 0);    z-index:9;    cursor: hand;}#wcia_contend .img-annotator-marker-url:hover{    border: solid 3px rgba(255, 255, 255, 0.68);}#wcia_contend .order_indicator {    border-radius: 50%;    width: 20px;    height: 20px;    display: block;    text-align: center;    background-color: white;    margin: auto;    position: absolute;    top: 0; left: 0; bottom: 0; right: 0;}</find>
+      <find>sh</find>
+      <find>shop</find>
+      <find>shop t</find>
+      <find>shop</find>
+      <find>wcia_options</find>
+      <find>button_lable</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>wcia</replace>
+      <replace>Woocommerce Image Annotator</replace>
+      <replace>wcia_quick_view</replace>
+      <replace>image-annotation</replace>
+      <replace>woocommerce-image-annotation</replace>
+      <replace />
+      <replace>content</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin/js/script.js" />
+        <option value="$PROJECT_DIR$/inc/class-wpia_front.php" />
+        <option value="$PROJECT_DIR$/front/js/script.js" />
+        <option value="$PROJECT_DIR$/inc/class-wcia_admin.php" />
+        <option value="$PROJECT_DIR$/inc/class.backend.php" />
+        <option value="$PROJECT_DIR$/inc/class-wcia_admin_metaboxes.php" />
+        <option value="$PROJECT_DIR$/admin/css/style.css" />
+        <option value="$PROJECT_DIR$/inc/class-wcia_backend_settings.php" />
+        <option value="$PROJECT_DIR$/inc/class-wcia_front_product.php" />
+        <option value="$PROJECT_DIR$/inc/class-wcia_front_image.php" />
+        <option value="$PROJECT_DIR$/front/css/style.css" />
+        <option value="$PROJECT_DIR$/classes/class-wcia_backend_settings.php" />
+        <option value="$PROJECT_DIR$/css/admin.css" />
+        <option value="$PROJECT_DIR$/classes/class-wcia_admin_metaboxes.php" />
+        <option value="$PROJECT_DIR$/js/admin/js/script.js" />
+        <option value="$PROJECT_DIR$/js/front/js/script.js" />
+        <option value="$PROJECT_DIR$/js/frontend.js" />
+        <option value="$PROJECT_DIR$/classes/class-wcia_front_product.php" />
+        <option value="$PROJECT_DIR$/classes/class-wcia_front_image.php" />
+        <option value="$PROJECT_DIR$/templates/archive-annotation.php" />
+        <option value="$PROJECT_DIR$/templates/galllery-annotation.php" />
+        <option value="$PROJECT_DIR$/templates/gallery-annotation.php" />
+        <option value="$PROJECT_DIR$/woocommerce-image-annotator.php" />
+        <option value="$PROJECT_DIR$/classes/class-wcia_admin.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/front/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/single-annotation.php" />
+        <option value="$PROJECT_DIR$/js/prettyPhoto.init.js" />
+        <option value="$PROJECT_DIR$/../../../../TheRichFeeling/wp-content/plugins/woocommerce-image-annotator/css/admin/css/style.css" />
+        <option value="$PROJECT_DIR$/codejam" />
+        <option value="$PROJECT_DIR$/codejam.html" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce-image-annotator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce-image-annotator" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce-image-annotator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce-image-annotator" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce-image-annotator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce-image-annotator" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce-image-annotator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce-image-annotator" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce-image-annotator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce-image-annotator" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../TheRichFeeling/wp-content/plugins/woocommerce-image-annotator/css/admin/css/style.css" />
+    <property name="settings.editor.selected.configurable" value="php.wordpress.base.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\TheRichFeeling\wp-content\plugins\woocommerce-image-annotator\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\TheRichFeeling\wp-content\plugins\woocommerce-image-annotator\img\admin" />
+      <recent name="C:\wamp64\www\TheRichFeeling\wp-content\plugins\woocommerce-image-annotator\js\admin" />
+      <recent name="C:\wamp64\www\TheRichFeeling\wp-content\plugins\woocommerce-image-annotator\css\front" />
+      <recent name="C:\wamp64\www\TheRichFeeling\wp-content\plugins\woocommerce-image-annotator\css" />
+      <recent name="C:\wamp64\www\TheRichFeeling\wp-content\plugins\woocommerce-image-annotator\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.codejam.html">
+    <configuration default="false" name="codejam.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/woocommerce-image-annotator/codejam.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.codejam.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.codejam.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="638876da-d8d7-4755-b881-028f4a358250" name="Default" comment="" />
+      <created>1490480874938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490480874938</updated>
+      <workItem from="1490480876548" duration="44000" />
+      <workItem from="1490480921883" duration="39000" />
+      <workItem from="1490481091398" duration="29000" />
+      <workItem from="1490523254582" duration="475000" />
+      <workItem from="1491075896534" duration="5126000" />
+      <workItem from="1491418464562" duration="34076000" />
+      <workItem from="1491522235182" duration="6487000" />
+      <workItem from="1491568233966" duration="10975000" />
+      <workItem from="1491663133990" duration="12077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="69328000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1346" height="728" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\wamp64\www\TheRichFeeling</wordpressPath>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_front_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2208">
+          <caret line="138" column="10" lean-forward="false" selection-start-line="138" selection-start-column="10" selection-end-line="138" selection-end-column="10" />
+          <folding>
+            <element signature="e#7#47#0#PHP" expanded="false" />
+            <element signature="e#1569#1654#0#PHP" expanded="false" />
+            <element signature="n#wcia_woocommerce_show_product_images#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="e#5888#6819#0#PHP" expanded="false" />
+            <element signature="e#6180#6364#0#PHP" expanded="false" />
+            <element signature="e#6286#6362#0#PHP" expanded="false" />
+            <element signature="e#6375#6621#0#PHP" expanded="false" />
+            <element signature="e#6628#6819#0#PHP" expanded="false" />
+            <element signature="e#6886#8217#0#PHP" expanded="false" />
+            <element signature="e#7101#8169#0#PHP" expanded="false" />
+            <element signature="e#7194#7277#0#PHP" expanded="false" />
+            <element signature="e#7284#7359#0#PHP" expanded="false" />
+            <element signature="e#7427#7474#0#PHP" expanded="false" />
+            <element signature="e#7651#7856#0#PHP" expanded="false" />
+            <element signature="e#7777#7854#0#PHP" expanded="false" />
+            <element signature="e#7930#8145#0#PHP" expanded="false" />
+            <element signature="e#8526#8711#0#PHP" expanded="false" />
+            <element signature="e#9222#9526#0#PHP" expanded="false" />
+            <element signature="n#wcia_remodel_model#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="n#wcia_add_button#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="n#theme_add_to_cart#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="e#10886#12321#0#PHP" expanded="false" />
+            <element signature="e#10943#11262#0#PHP" expanded="false" />
+            <element signature="e#10989#11256#1#PHP" expanded="false" />
+            <element signature="e#11003#11254#0#PHP" expanded="false" />
+            <element signature="e#11017#11252#1#PHP" expanded="false" />
+            <element signature="e#11385#12246#0#PHP" expanded="false" />
+            <element signature="e#11441#12230#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_front_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="171" column="47" lean-forward="false" selection-start-line="171" selection-start-column="47" selection-end-line="171" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/single-annotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/archive-annotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/front/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/frontend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2960">
+          <caret line="185" column="34" lean-forward="false" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce-image-annotator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="98" column="41" lean-forward="false" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="41" />
+          <folding>
+            <element signature="e#6#250#0#PHP" expanded="true" />
+            <element signature="n#wcia_quick_view_deactivate#0;n#!!top" expanded="false" />
+            <element signature="e#1850#2167#0#PHP" expanded="false" />
+            <element signature="e#1894#2031#0#PHP" expanded="false" />
+            <element signature="e#2037#2167#0#PHP" expanded="false" />
+            <element signature="e#2048#2162#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="59" lean-forward="false" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_front_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2128">
+          <caret line="138" column="10" lean-forward="false" selection-start-line="138" selection-start-column="10" selection-end-line="138" selection-end-column="10" />
+          <folding>
+            <element signature="e#7#47#0#PHP" expanded="false" />
+            <element signature="e#1569#1654#0#PHP" expanded="false" />
+            <element signature="n#wcia_woocommerce_show_product_images#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="e#5888#6819#0#PHP" expanded="false" />
+            <element signature="e#6180#6364#0#PHP" expanded="false" />
+            <element signature="e#6286#6362#0#PHP" expanded="false" />
+            <element signature="e#6375#6621#0#PHP" expanded="false" />
+            <element signature="e#6628#6819#0#PHP" expanded="false" />
+            <element signature="e#6886#8217#0#PHP" expanded="false" />
+            <element signature="e#7101#8169#0#PHP" expanded="false" />
+            <element signature="e#7194#7277#0#PHP" expanded="false" />
+            <element signature="e#7284#7359#0#PHP" expanded="false" />
+            <element signature="e#7427#7474#0#PHP" expanded="false" />
+            <element signature="e#7651#7856#0#PHP" expanded="false" />
+            <element signature="e#7777#7854#0#PHP" expanded="false" />
+            <element signature="e#7930#8145#0#PHP" expanded="false" />
+            <element signature="e#8526#8711#0#PHP" expanded="false" />
+            <element signature="e#9222#9526#0#PHP" expanded="false" />
+            <element signature="n#wcia_remodel_model#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="n#wcia_add_button#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="n#theme_add_to_cart#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="e#10886#12321#0#PHP" expanded="false" />
+            <element signature="e#10943#11262#0#PHP" expanded="false" />
+            <element signature="e#10989#11256#1#PHP" expanded="false" />
+            <element signature="e#11003#11254#0#PHP" expanded="false" />
+            <element signature="e#11017#11252#1#PHP" expanded="false" />
+            <element signature="e#11385#12246#0#PHP" expanded="false" />
+            <element signature="e#11441#12230#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_front_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="171" column="47" lean-forward="false" selection-start-line="171" selection-start-column="47" selection-end-line="171" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/single-annotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/archive-annotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gallery-annotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/admin/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4608">
+          <caret line="288" column="0" lean-forward="false" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/front/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3392">
+          <caret line="212" column="0" lean-forward="true" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_admin_metaboxes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding>
+            <marker date="1491522127926" expanded="true" signature="6417:6722" ph="..." />
+            <marker date="1491522127926" expanded="true" signature="6495:6717" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1664">
+          <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_front_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3568">
+          <caret line="223" column="33" lean-forward="false" selection-start-line="223" selection-start-column="33" selection-end-line="223" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/admin/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="95" column="17" lean-forward="true" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1168">
+          <caret line="73" column="9" lean-forward="false" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/front/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="126" column="1" lean-forward="true" selection-start-line="126" selection-start-column="1" selection-end-line="126" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1168">
+          <caret line="73" column="9" lean-forward="false" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image-annotator.php" />
+    <entry file="file://$PROJECT_DIR$/inc/woocommerce/add-to-cart.php" />
+    <entry file="file://$PROJECT_DIR$/js/admin/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="333" column="13" lean-forward="false" selection-start-line="333" selection-start-column="13" selection-end-line="333" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/front/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="192" column="0" lean-forward="true" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/frontend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2960">
+          <caret line="185" column="34" lean-forward="false" selection-start-line="185" selection-start-column="34" selection-end-line="185" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../themes/adelle/page.php" />
+    <entry file="file://$PROJECT_DIR$/../../themes/adelle/archive.php" />
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_front_image.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="171" column="47" lean-forward="false" selection-start-line="171" selection-start-column="47" selection-end-line="171" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_front_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="138" column="10" lean-forward="false" selection-start-line="138" selection-start-column="10" selection-end-line="138" selection-end-column="10" />
+          <folding>
+            <element signature="e#7#47#0#PHP" expanded="false" />
+            <element signature="e#1569#1654#0#PHP" expanded="false" />
+            <element signature="n#wcia_woocommerce_show_product_images#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="e#5888#6819#0#PHP" expanded="false" />
+            <element signature="e#6180#6364#0#PHP" expanded="false" />
+            <element signature="e#6286#6362#0#PHP" expanded="false" />
+            <element signature="e#6375#6621#0#PHP" expanded="false" />
+            <element signature="e#6628#6819#0#PHP" expanded="false" />
+            <element signature="e#6886#8217#0#PHP" expanded="false" />
+            <element signature="e#7101#8169#0#PHP" expanded="false" />
+            <element signature="e#7194#7277#0#PHP" expanded="false" />
+            <element signature="e#7284#7359#0#PHP" expanded="false" />
+            <element signature="e#7427#7474#0#PHP" expanded="false" />
+            <element signature="e#7651#7856#0#PHP" expanded="false" />
+            <element signature="e#7777#7854#0#PHP" expanded="false" />
+            <element signature="e#7930#8145#0#PHP" expanded="false" />
+            <element signature="e#8526#8711#0#PHP" expanded="false" />
+            <element signature="e#9222#9526#0#PHP" expanded="false" />
+            <element signature="n#wcia_remodel_model#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="n#wcia_add_button#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="n#theme_add_to_cart#0;n#wcia_front_product#0;n#!!top" expanded="false" />
+            <element signature="e#10886#12321#0#PHP" expanded="false" />
+            <element signature="e#10943#11262#0#PHP" expanded="false" />
+            <element signature="e#10989#11256#1#PHP" expanded="false" />
+            <element signature="e#11003#11254#0#PHP" expanded="false" />
+            <element signature="e#11017#11252#1#PHP" expanded="false" />
+            <element signature="e#11385#12246#0#PHP" expanded="false" />
+            <element signature="e#11441#12230#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/front/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="48" column="35" lean-forward="true" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gallery-annotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/archive-annotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/single-annotation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wp-color-picker-alpha.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/remodal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/prettyPhoto.init.js" />
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_admin_metaboxes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6976">
+          <caret line="436" column="54" lean-forward="false" selection-start-line="436" selection-start-column="54" selection-end-line="436" selection-end-column="54" />
+          <folding>
+            <marker date="1491522127926" expanded="true" signature="6417:6722" ph="..." />
+            <marker date="1491522127926" expanded="true" signature="6495:6717" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="55" column="83" lean-forward="false" selection-start-line="55" selection-start-column="83" selection-end-line="55" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/woocommerce-image-annotator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="e#6#250#0#PHP" expanded="true" />
+            <element signature="n#wcia_quick_view_deactivate#0;n#!!top" expanded="false" />
+            <element signature="e#1850#2167#0#PHP" expanded="false" />
+            <element signature="e#1894#2031#0#PHP" expanded="false" />
+            <element signature="e#2037#2167#0#PHP" expanded="false" />
+            <element signature="e#2048#2162#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/admin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2592">
+          <caret line="542" column="0" lean-forward="false" selection-start-line="542" selection-start-column="0" selection-end-line="542" selection-end-column="0" />
+          <folding>
+            <element signature="e#62#119#0" expanded="false" />
+            <element signature="e#138#177#0" expanded="false" />
+            <element signature="e#252#401#0" expanded="false" />
+            <element signature="e#439#560#0" expanded="false" />
+            <element signature="e#598#719#0" expanded="false" />
+            <element signature="e#750#779#0" expanded="false" />
+            <element signature="e#839#988#0" expanded="false" />
+            <element signature="e#1018#1123#0" expanded="false" />
+            <element signature="e#1153#1258#0" expanded="false" />
+            <element signature="e#1293#1324#0" expanded="false" />
+            <element signature="e#1341#1692#0" expanded="false" />
+            <element signature="e#1716#1976#0" expanded="false" />
+            <element signature="e#2012#2347#0" expanded="false" />
+            <element signature="e#2366#2411#0" expanded="false" />
+            <element signature="e#2460#2488#0" expanded="false" />
+            <element signature="e#2506#2551#0" expanded="false" />
+            <element signature="e#2598#2626#0" expanded="false" />
+            <element signature="e#2732#2766#0" expanded="false" />
+            <element signature="e#2768#3020#0" expanded="false" />
+            <element signature="e#2824#2924#0" expanded="false" />
+            <element signature="e#2932#3018#0" expanded="false" />
+            <element signature="e#3022#3266#0" expanded="false" />
+            <element signature="e#3070#3170#0" expanded="false" />
+            <element signature="e#3178#3264#0" expanded="false" />
+            <element signature="e#3268#3528#0" expanded="false" />
+            <element signature="e#3324#3418#0" expanded="false" />
+            <element signature="e#3426#3526#0" expanded="false" />
+            <element signature="e#3530#3782#0" expanded="false" />
+            <element signature="e#3578#3672#0" expanded="false" />
+            <element signature="e#3680#3780#0" expanded="false" />
+            <element signature="e#3784#3912#0" expanded="false" />
+            <element signature="e#3848#3875#0" expanded="false" />
+            <element signature="e#3883#3910#0" expanded="false" />
+            <element signature="e#3914#4034#0" expanded="false" />
+            <element signature="e#3970#3997#0" expanded="false" />
+            <element signature="e#4005#4032#0" expanded="false" />
+            <element signature="e#4036#4164#0" expanded="false" />
+            <element signature="e#4100#4127#0" expanded="false" />
+            <element signature="e#4135#4162#0" expanded="false" />
+            <element signature="e#4166#4286#0" expanded="false" />
+            <element signature="e#4222#4249#0" expanded="false" />
+            <element signature="e#4257#4284#0" expanded="false" />
+            <element signature="e#4298#4535#0" expanded="false" />
+            <element signature="e#4554#4739#0" expanded="false" />
+            <element signature="e#4758#4800#0" expanded="false" />
+            <element signature="e#4830#5057#0" expanded="false" />
+            <element signature="e#5090#5110#0" expanded="false" />
+            <element signature="e#5133#5235#0" expanded="false" />
+            <element signature="e#5248#5526#0" expanded="false" />
+            <element signature="e#5545#5732#0" expanded="false" />
+            <element signature="e#5751#5793#0" expanded="false" />
+            <element signature="e#5823#6026#0" expanded="false" />
+            <element signature="e#6059#6079#0" expanded="false" />
+            <element signature="e#6102#6204#0" expanded="false" />
+            <element signature="e#6222#6244#0" expanded="false" />
+            <element signature="e#6262#6284#0" expanded="false" />
+            <element signature="e#6313#6341#0" expanded="false" />
+            <element signature="e#6360#6499#0" expanded="false" />
+            <element signature="e#6519#6657#0" expanded="false" />
+            <element signature="e#6676#6816#0" expanded="false" />
+            <element signature="e#6957#7057#0" expanded="false" />
+            <element signature="e#7116#7137#0" expanded="false" />
+            <element signature="e#7161#7205#0" expanded="false" />
+            <element signature="e#7265#7322#0" expanded="false" />
+            <element signature="e#7475#7604#0" expanded="false" />
+            <element signature="e#7642#7687#0" expanded="false" />
+            <element signature="e#7730#7892#0" expanded="false" />
+            <element signature="e#7914#7957#0" expanded="false" />
+            <element signature="e#8002#8023#0" expanded="false" />
+            <element signature="e#8046#8085#0" expanded="false" />
+            <element signature="e#8116#8190#0" expanded="false" />
+            <element signature="e#8216#8236#0" expanded="false" />
+            <element signature="e#8277#8299#0" expanded="false" />
+            <element signature="e#8328#8351#0" expanded="false" />
+            <element signature="e#8393#8416#0" expanded="false" />
+            <element signature="e#8468#8510#0" expanded="false" />
+            <element signature="e#8540#8567#0" expanded="false" />
+            <element signature="e#8617#9216#0" expanded="false" />
+            <element signature="e#8701#9210#0" expanded="false" />
+            <element signature="e#9221#9799#0" expanded="false" />
+            <element signature="e#9282#9793#0" expanded="false" />
+            <element signature="e#9873#9924#0" expanded="false" />
+            <element signature="e#9958#9993#0" expanded="false" />
+            <element signature="e#10008#10016#0" expanded="false" />
+            <element signature="e#10159#10187#0" expanded="false" />
+            <element signature="e#10216#10244#0" expanded="false" />
+            <element signature="e#10278#10402#0" expanded="false" />
+            <element signature="e#10407#11864#0" expanded="false" />
+            <element signature="e#10496#10531#0" expanded="false" />
+            <element signature="e#10545#10958#0" expanded="false" />
+            <element signature="e#11031#11059#0" expanded="false" />
+            <element signature="e#11149#11231#0" expanded="false" />
+            <element signature="e#11266#11340#0" expanded="false" />
+            <element signature="e#11374#11540#0" expanded="false" />
+            <element signature="e#11575#11671#0" expanded="false" />
+            <element signature="e#11710#11861#0" expanded="false" />
+            <element signature="e#11866#13299#0" expanded="false" />
+            <element signature="e#11932#11967#0" expanded="false" />
+            <element signature="e#11981#12394#0" expanded="false" />
+            <element signature="e#12467#12495#0" expanded="false" />
+            <element signature="e#12585#12667#0" expanded="false" />
+            <element signature="e#12702#12776#0" expanded="false" />
+            <element signature="e#12810#12976#0" expanded="false" />
+            <element signature="e#13011#13107#0" expanded="false" />
+            <element signature="e#13146#13297#0" expanded="false" />
+            <element signature="e#13327#13398#0" expanded="false" />
+            <element signature="e#13428#13561#0" expanded="false" />
+            <element signature="e#13588#13752#0" expanded="false" />
+            <element signature="e#13776#13865#0" expanded="false" />
+            <element signature="e#13896#13918#0" expanded="false" />
+            <element signature="e#13979#14114#0" expanded="false" />
+            <element signature="e#14159#14245#0" expanded="false" />
+            <element signature="e#14314#14333#0" expanded="false" />
+            <element signature="e#14344#14530#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/admin/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="88" column="1" lean-forward="false" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../TheRichFeeling/wp-content/plugins/woocommerce-image-annotator/css/admin/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/A-small-practice.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codejam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codejam">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/class-wcia_backend_settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="46" column="33" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="33" />
+          <folding>
+            <marker date="1491522128039" expanded="true" signature="8859:8872" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/output_file (16).txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="146" lean-forward="false" selection-start-line="16" selection-start-column="146" selection-end-line="16" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
